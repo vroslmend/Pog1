@@ -1,3 +1,3 @@
-YO!
-FIRST HTML THINGY
+Yo!
+First Html Thingy.
 :3
