@@ -1,5 +1,4 @@
 Yo!
-First Html Thingy
 :3
 
-Website: https://vroslmend.github.io/Pog1/
+The Thing: https://vroslmend.github.io/Pog1/
